@@ -1,0 +1,40 @@
+.header {
+    background: white;
+    width: 100%;
+    height: 80%;
+    padding: 10px;
+}
+
+.header h1 {
+    margin:auto;
+    width: 350px
+}
+
+.header-post {
+    padding: 0px 14px 0px;
+}
+.post {
+    width: 400px;
+    background: white;
+    margin: auto;
+    margin-top: 10px;
+}
+.boxone, .boxtwo {
+    width: 50%;
+}
+
+.boxone {
+   float: left;
+}
+
+.boxtwo {
+    float: right;
+    text-align: right;
+}
+
+body {
+    background: gray;
+}
+footer {
+    padding: 10px;
+}
